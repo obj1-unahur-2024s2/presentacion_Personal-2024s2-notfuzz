@@ -1,35 +1,28 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Lucas Avalos
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Me llamo Lucas y este es mi cuarto cuatrimestre en la carrera, es mi primera experiencia en una universidad ya que lo mas parecido que hice fue cursar dos años en un conservatorio cuando tenía 15.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Llegué a la unahur por un amigo de la secundaria que comenzó sus estudios un año antes que yo, al no saber que estudiar, decidí no pensarlo mucho y anotarme en la misma carrera que el. Al principio fue 
+muy difícil ya que no sabía si realmente me gustaba la carrera o la estaba haciendo por inercia, esto fue así hasta que me topé con la materia Programación Estructurada, en la que me tocó cursar con 
+excelentes profesores (emi y hernán) que me hicieron empezar a interesarme mucho más por la carrera, al punto de comenzar a hacer cursos y adquirir conocimientos por fuera de la universidad.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+A día de hoy no me imagino estudiando ni dedicandome a otra cosa que no sea esto, y me gustaría en un futuro poder ser profesor, para tener la oportunidad de inspirar a mis alumnos tal y como mis 
+profesores lo hicieron conmigo.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+![luquita](./assets/yo.jpeg)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+## Gustos e intereses:
+* Toco la guitarra desde los 14 años (tengo 20), este mi es hobby no tan hobby principal, intento ser muy versatil pero lo que mejor toco es Blues y Metal.
+
+* Me encanta todo tipo de música y tengo una fascinación muy grande por el audio.
+
+* Amo todo lo que tenga que ver con el horror, películas, videojuegos, música, literatura, etc.
+
+* Me gustan los gatos.
+
+
+
